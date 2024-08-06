@@ -13,5 +13,5 @@
     "**/*.tsx",
     ".expo/types/**/*.ts",
     "expo-env.d.ts"
-  ]
+, "context/GlobalProvider.js", "app/(tabs)/profile.js", "app/(tabs)/bookmark.js", "app/(tabs)/create.js", "app/(tabs)/home.js"  ]
 }
